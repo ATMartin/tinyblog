@@ -1,0 +1,6 @@
+== TinyBlog
+
+A tiny, tiny Blog demo using Ember on the front end and a primitive Rails API backend. 
+
+Just another practice project from @ADotMartin! :)
+
